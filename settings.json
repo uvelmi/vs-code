@@ -1,0 +1,32 @@
+{
+	"window.zoomLevel": 2,
+	"workbench.startupEditor": "newUntitledFile",
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"files.associations": {
+		"*.kit": "html"
+	},
+	"workbench.sideBar.location": "left",
+	"workbench.statusBar.visible": true,
+	"workbench.activityBar.visible": true,
+	"editor.renderWhitespace": "all",
+	"editor.renderControlCharacters": true,
+	"editor.minimap.enabled": true,
+	"breadcrumbs.enabled": true,
+	"workbench.colorTheme": "Space Ocean Kit Refined",
+	"editor.hideCursorInOverviewRuler": true,
+	"editor.tabSize": 3,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.colorDecorators": false,
+	"editor.mouseWheelZoom": true,
+	"workbench.editor.closeEmptyGroups": false,
+	"editor.formatOnSave": true,
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "css"
+		}
+	],
+}
