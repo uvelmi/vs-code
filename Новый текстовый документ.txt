@@ -1,0 +1,2 @@
+git remote add origin https://github.com/uvelmi/vs-code.git
+git push -u origin main
